@@ -1,0 +1,25 @@
+# ***Mod Dialogue***
+	
+	WAWA=
+			hello?? Can you hear me??
+
+			Oh good you can hear me.
+
+			Listen {+MADELINE}, you need to kill your sister, Evil.
+
+			Just go on ahead and i will guide you along the way as this turtle hologram
+	
+
+	WIWI=
+			[BADELINE right angry]
+			
+			Hey
+	
+	WUWU=
+			Listen
+
+			I am SO SO SO sorry for this room
+
+			-me (le map maker)
+
+			PS. You grab after the going through the dream block at the end :3
