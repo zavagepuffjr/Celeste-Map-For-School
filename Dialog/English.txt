@@ -5,9 +5,11 @@
 
 			Oh good you can hear me.
 
-			Listen {+MADELINE}, you need to kill your sister, Evil.
+			Listen {+MADELINE}, you need to kill J.K Rowling
 
-			Just go on ahead and i will guide you along the way as this turtle hologram
+            Considering your trans and all, she need to be executed for her evil crimes
+
+			Just go on ahead and i will guide you along the way as this bird
 	
 
 	WIWI=
@@ -23,3 +25,15 @@
 			-me (le map maker)
 
 			PS. You grab after the going through the dream block at the end :3
+
+    choose=
+            Hey, due to popular demand, i have added an easy route for you to take
+
+            Just head upwards and you will be on your merry way :3
+
+    correct=
+        OK, Thank god you picked the hard route, because the easy route leads to a dead end
+
+        I do sincerely apologize for how hard this level may be for a new player like you (or easy if youve played celeste before)
+
+        Well then, back to your quest of killing J.K Rowling
